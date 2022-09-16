@@ -26,5 +26,5 @@
 - localStorage
 
  
-### Criteria
+ ### Criteria
 [criteria](https://github.com/goitacademy/react-homework/blob/master/hooks/README.pl.md )
